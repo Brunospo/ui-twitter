@@ -12,3 +12,4 @@ Esse projeto é um clone da interface de usuário (UI) do Twitter utilizando Rea
 - TypeScript
 - HTML
 - CSS
+- react-router-dom
